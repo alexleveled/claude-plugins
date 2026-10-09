@@ -16,7 +16,28 @@
       },
       "description": "Hear Claude's last reply read aloud with a natural local voice. Nothing leaves your machine.",
       "category": "productivity",
-      "keywords": ["tts", "voice", "accessibility", "kokoro"]
+      "keywords": [
+        "tts",
+        "voice",
+        "accessibility",
+        "kokoro"
+      ]
+    },
+    {
+      "name": "done-alerts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexleveled/claude-done-alerts.git"
+      },
+      "description": "Claude tells you out loud when it finishes or needs your approval. Free local voice or Fish Audio.",
+      "category": "productivity",
+      "keywords": [
+        "tts",
+        "voice",
+        "notifications",
+        "kokoro",
+        "fish-audio"
+      ]
     }
   ]
 }
