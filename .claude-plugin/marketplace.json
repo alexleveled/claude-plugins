@@ -1,0 +1,22 @@
+{
+  "name": "alexleveled",
+  "owner": {
+    "name": "alexleveled",
+    "url": "https://github.com/alexleveled"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by alexleveled."
+  },
+  "plugins": [
+    {
+      "name": "read-aloud",
+      "source": {
+        "source": "github",
+        "repo": "alexleveled/claude-read-aloud"
+      },
+      "description": "Hear Claude's last reply read aloud with a natural local voice. Nothing leaves your machine.",
+      "category": "productivity",
+      "keywords": ["tts", "voice", "accessibility", "kokoro"]
+    }
+  ]
+}
