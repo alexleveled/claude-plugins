@@ -11,8 +11,8 @@
     {
       "name": "read-aloud",
       "source": {
-        "source": "github",
-        "repo": "alexleveled/claude-read-aloud"
+        "source": "url",
+        "url": "https://github.com/alexleveled/claude-read-aloud.git"
       },
       "description": "Hear Claude's last reply read aloud with a natural local voice. Nothing leaves your machine.",
       "category": "productivity",
